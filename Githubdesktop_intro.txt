@@ -18,3 +18,7 @@ To add the files to github, you have to commit them. To commit a file, do the fo
 ##Branching:"When you create a branch in your project, you're creating an environment where you can try out new ideas. Changes you make on a branch don't affect the master branch, so you're free to experiment and commit changes, safe in the knowledge that your branch won't be merged until it's ready to be reviewed by someone you're collaborating with"
 ** I don't think we need this right now but might be a good idea to familiarize ourselves with it. 
 This is another useful link outlining the various steps in Git: https://guides.github.com/introduction/flow/
+
+##Publishing a repository
+1. Use the third icon below the menu bar in your github desktop window to publish a respository. Until I did this, I wasn't able to see this repository in my github online.
+2. When you try to, it will ask you to sign in to your git account (hence, have one handy)
