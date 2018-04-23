@@ -1,0 +1,9 @@
+Watch https://www.youtube.com/watch?v=77W2JSL7-r8 for using Github Desktop. 
+
+1.	Go to www.desktop.github.com
+2.	Download and install for Windows/Mac as appropriate
+3.	Sign in with your Github credentials/create one if you don't have one
+4. 	I followed the tutorial from here but what was not apparent was adding files.	
+	a. Create a new repository (i.e. folder), or add an existing one if you already have it. 
+	b. Create/copy files you want to share into this new folder that you created. My Github is under Documents and hence the repository filepath looks something like this- C:/Users/Asengupta/Document/Github_intro/Githubdesktop_intro.txt
+        
