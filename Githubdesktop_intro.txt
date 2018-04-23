@@ -25,7 +25,7 @@ This is another useful link outlining the various steps in Git: https://guides.g
 1. Use the third icon below the menu bar in your github desktop window to publish a respository. Until I did this, I wasn't able to see this repository in my github online.
 2. When you try to, it will ask you to sign in to your git account (hence, have one handy)
 3. The code/document can be kept private if it is a paid git account. I don't have one, so I uncheck the box and click publish respository. This essentially is the "push" command where you are pushing your files to the online git magic world.
-4. Any changes you make to the document after it has been committed, you add a description and hit commit but now also click on "Push" icon. 
+4. Any changes you make to the document after it has been committed, you add a description and hit commit but now also click on "Push Origin" icon. 
 
 ##Cloning a repository
 1. If you want to clone this current repository, go to the Repository option under File menu. Click on "Clone Repository".
