@@ -22,3 +22,11 @@ This is another useful link outlining the various steps in Git: https://guides.g
 ##Publishing a repository
 1. Use the third icon below the menu bar in your github desktop window to publish a respository. Until I did this, I wasn't able to see this repository in my github online.
 2. When you try to, it will ask you to sign in to your git account (hence, have one handy)
+3. The code/document can be kept private if it is a paid git account. I don't have one, so I uncheck the box and click publish respository. This essentially is the "push" command where you are pushing your files to the online git magic world.
+
+##Cloning a repository
+1. If you want to clone this current repository, go to the Repository option under File menu. Click on "Clone Repository".
+2. Copy-paste the url if you have it (For example, I cloned your ISME 2013 BNTI R code)
+3. You won't see anything in the github desktop panels, but if you go back to the folder (in my case the Git folder under Documents), you can see the file. 
+4. So in our case, when we are working with a text document and you want to add extra text to the document, you would open it up, make changes, which you should be able to see in guthub desktop. Commit that to the master branch, but this happens locally.
+5. "Push" this up to Github (At this point, I don't know if the push command I make at my end is going to change your code...I think this is where the branching part comes into play). Not sure, I would need a partner to figure this out. 	
