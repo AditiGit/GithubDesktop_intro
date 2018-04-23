@@ -1,4 +1,4 @@
-Watch https://www.youtube.com/watch?v=77W2JSL7-r8 for using Github Desktop. 
+Pro-Tip: Watch https://www.youtube.com/watch?v=77W2JSL7-r8 for using Github Desktop. :D
 
 ## Installing Github Desktop, creating repository, saving files in repository
 1.	Go to www.desktop.github.com
@@ -14,3 +14,7 @@ To add the files to github, you have to commit them. To commit a file, do the fo
 1. Give a name to the action (i.e. if you are adding a file, write which date you added it, later you might need to edit the file, so have that info in that tab. Description is optional but always a good idea to provide some infromation about the action you are performing.
 2. If you keep typing after commit, the changes will keep happening real time in the document after you save the changes you make.
 3. But remember to add a description and hit commit after every change if you want your file (which is now in the repository to show those changes)
+
+##Branching:"When you create a branch in your project, you're creating an environment where you can try out new ideas. Changes you make on a branch don't affect the master branch, so you're free to experiment and commit changes, safe in the knowledge that your branch won't be merged until it's ready to be reviewed by someone you're collaborating with"
+** I don't think we need this right now but might be a good idea to familiarize ourselves with it. 
+This is another useful link outlining the various steps in Git: https://guides.github.com/introduction/flow/
